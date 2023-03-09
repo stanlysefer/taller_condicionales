@@ -1,4 +1,4 @@
-#Programa para calcular el precio de venta de un articulo dado siguiendo la sigiente fotmula P = precioCosto + ganancia.
+#Programa para calcular el precio de venta de un articulo dado
 
 #Diagrama de flujo
 ![Diagrama de flujo](diagrama.png "Diagrama de flujo")
